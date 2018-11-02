@@ -1,0 +1,5 @@
+# Shortcut keys
+## Custom Shortcuts
+### Automator 
+ * Picture in picture for Safari: *cmd + shift + P* 
+ 
